@@ -1,6 +1,3 @@
-# ReactPractice
-Projects using react and jS
+## Idea
 
-Use npm install && npm start in the terminal to get all the dependencies for the project.
-
-Open a browser.. after npm start a browser at localhost:3000 will open where we can see the projects
+[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
